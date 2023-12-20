@@ -23,7 +23,7 @@ python train.py --dataset sysu
 
 If you find the code and dataset useful in your research, please consider citing:
  
-    @article{zheng2022Visible-Infrared,
+    @article{zheng2022visible,
     author={Zheng, Xiangtao and Chen, Xiumei and Lu, Xiaoqiang},
     journal={IEEE Transactions on Image Processing}, 
     title={Visible-Infrared Person Re-Identification via Partially Interactive Collaboration}, 
